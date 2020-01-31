@@ -15,6 +15,6 @@ response.json()
 
 # in below method pass the authentication key
 # Login to GitHub account -> settings -> developer settings -> personal access token -> Generate new token -> select only user -> Generate
-response = requests.get(url,headers= {'Authorization':'Bearer eaee766d2c03c53084e50365fd78488aca543917'})
+response = requests.get(url,headers= {'Authorization':'Bearer #############################'})
 response.json()
 ## provides output in json here 
